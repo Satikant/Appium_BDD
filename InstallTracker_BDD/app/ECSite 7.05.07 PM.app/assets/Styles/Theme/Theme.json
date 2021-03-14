@@ -1,0 +1,722 @@
+{
+    "styles": [
+        {
+            "type": "light",
+            "component": [
+                {
+                    "key": "login_input_text",
+                    "value": {
+                        "color": "#9e9e9e"
+                    }
+                },
+                {
+                    "key": "login_input_box",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "login_input_box_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "login_bottom_view",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "progress_bar_background",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "progress_bar_text",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "view_background",
+                    "value": {
+                        "color": "#F7F7F7"
+                    }
+                },
+                {
+                    "key": "header_background_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "bottom_background_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "listitem_text",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "listitem_separator",
+                    "value": {
+                        "color": "#0000FF"
+                    }
+                },
+                {
+                    "key": "searchbar_background",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "search_bar_text_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },                
+                {
+                    "key": "searchbar_placeholder_text",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "searchbar_border",
+                    "value": {
+                        "color": "#d8d8d8"
+                    }
+                },
+                {
+                    "key": "text_field_background",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "text_field_text_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },                
+                {
+                    "key": "text_field_placeholder_text",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "text_field_border",
+                    "value": {
+                        "color": "#d8d8d8"
+                    }
+                },
+                {
+                    "key": "item_detail_header_background",
+                    "value": {
+                        "color": "#f7f7f7"
+                    }
+                },
+                {
+                    "key": "item_detail_section_header",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "item_detail_sub_item",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "item_detail_sub_item_detail",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "item_detail_header_text",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "item_detail_border",
+                    "value": {
+                        "color": "#ffffff"
+                    }
+                },                
+                {
+                    "key": "item_table_cell_text",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "textfield_background_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "button_background_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "button_text",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "popup_background",
+                    "value": {
+                        "color": "#ffffff"
+                    }
+                },
+                {
+                    "key": "bottom_shadow_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "list_header_background_color",
+                    "value": {
+                        "color": "#f7f7f7"
+                    }
+                },
+                {
+                    "key": "list_header_text_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "list_header_separator",
+                    "value": {
+                        "color": "#d8d8d8"
+                    }
+                },
+                {
+                    "key": "header_separator",
+                    "value": {
+                        "color": "#d8d8d8"
+                    }
+                },
+                {
+                    "key": "list_item_description_text",
+                    "value": {
+                        "color": "#979797"
+                    }
+                },
+                {
+                    "key": "list_view_background",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "empty_data_text",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "popup_header_background",
+                    "value": {
+                        "color": "#f7f7f7"
+                    }
+                },
+                {
+                    "key": "popup_input_background",
+                    "value": {
+                        "color": "#f7f7f7"
+                    }
+                },
+                {
+                    "key": "popup_Input_text_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "tag_view_text_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "tag_view_border",
+                    "value": {
+                        "color": "#d8d8d8"
+                    }
+                },
+                {
+                    "key": "header_view_text_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "checkbox_background_color",
+                    "value": {
+                        "color": "#d8d8d8"
+                    }
+                },
+                {
+                    "key": "checkbox_checked_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "label_text_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "popup_full_view_background_color",
+                    "value": {
+                        "color": "#343434"
+                    }
+                },
+                {
+                    "key": "radio_button_inner_selected_color",
+                    "value": {
+                        "color": "#50c900"
+                    }
+                },
+                {
+                    "key": "radio_button_inner_unselected_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "radio_button_outer_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "radio_button_label_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "tape_drop_top_view_background_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "tape_drop_top_view_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "tape_drop_bottom_view_background_color",
+                    "value": {
+                        "color": "#d3d3d3"
+                    }
+                },
+                {
+                    "key": "dist_to_building_top_view_background_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "dist_to_building_top_view_text_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "radio_button_label_text_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "sample_image_border",
+                    "value": {
+                        "color": "#398677"
+                    }
+                }            
+            ]
+        },
+        {
+            "type": "dark",
+            "component": [
+                {
+                    "key": "login_input_text",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "login_input_box",
+                    "value": {
+                        "color": "#121212"
+                    }
+                },
+                {
+                    "key": "login_input_box_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "login_bottom_view",
+                    "value": {
+                        "color": "#121212"
+                    }
+                },
+                {
+                    "key": "view_background",
+                    "value": {
+                        "color": "#121212"
+                    }
+                },
+                {
+                    "key": "progress_bar_background",
+                    "value": {
+                        "color": "#121212"
+                    }
+                },
+                {
+                    "key": "progress_bar_text",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "header_background_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "bottom_background_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "listitem_text",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "listitem_separator",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "searchbar_background",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "search_bar_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "searchbar_placeholder_text",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "searchbar_border",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "text_field_background",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "text_field_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },                
+                {
+                    "key": "text_field_placeholder_text",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "text_field_border",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "item_detail_header_background",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },                
+                {
+                    "key": "item_detail_section_header",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "item_detail_sub_item",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "item_detail_sub_item_detail",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "item_detail_header_text",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "item_detail_border",
+                    "value": {
+                        "color": "#398677"
+                    }
+                }, 
+                {
+                    "key": "item_table_cell_text",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "textfield_background_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "button_background_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "button_text",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "popup_background",
+                    "value": {
+                        "color": "#070707"
+                    }
+                },
+                {
+                    "key": "bottom_shadow_color",
+                    "value": {
+                        "color": "#F2F2F2"
+                    }
+                },
+                {
+                    "key": "list_header_background_color",
+                    "value": {
+                        "color": "#121212"
+                    }
+                },
+                {
+                    "key": "list_header_text_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "list_header_separator",
+                    "value": {
+                        "color": "#4a4a4a"
+                    }
+                },
+                {
+                    "key": "header_separator",
+                    "value": {
+                        "color": "#4a4a4a"
+                    }
+                },
+                {
+                    "key": "list_item_description_text",
+                    "value": {
+                        "color": "#979797"
+                    }
+                },
+                {
+                    "key": "list_view_background",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "empty_data_text",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "popup_header_background",
+                    "value": {
+                        "color": "#121212"
+                    }
+                },
+                {
+                    "key": "popup_input_background",
+                    "value": {
+                        "color": "#121212"
+                    }
+                },
+                {
+                    "key": "popup_Input_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "tag_view_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "tag_view_border",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "header_view_text_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "checkbox_background_color",
+                    "value": {
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "key": "checkbox_checked_color",
+                    "value": {
+                        "color": "#398677"
+                    }
+                },
+                {
+                    "key": "label_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "popup_full_view_background_color",
+                    "value": {
+                        "color": "#343434"
+                    }
+                },
+                {
+                    "key": "radio_button_inner_selected_color",
+                    "value": {
+                        "color": "#50c900"
+                    }
+                },
+                {
+                    "key": "radio_button_inner_unselected_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "radio_button_outer_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "radio_button_label_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "tape_drop_top_view_background_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "tape_drop_top_view_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "tape_drop_bottom_view_background_color",
+                    "value": {
+                        "color": "#d3d3d3"
+                    }
+                },
+                {
+                    "key": "dist_to_building_top_view_background_color",
+                    "value": {
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "key": "dist_to_building_top_view_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "radio_button_label_text_color",
+                    "value": {
+                        "color": "#FFFFFF"
+                    }
+                },
+                {
+                    "key": "sample_image_border",
+                    "value": {
+                        "color": "#398677"
+                    }
+                }  
+            ]
+        }
+    ]
+}
